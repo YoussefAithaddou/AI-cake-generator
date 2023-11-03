@@ -1,12 +1,11 @@
 # AI Brand-Inspired Cake Generator
 
-![Project Image](link-to-your-project-image.jpg)
+![Project Image](Demo.png)
 
 ## Overview
 
 Combining text-to-image with Large Language models, the AI Brand-Inspired Cake Generator is an interactive application that allows users to transform their favorite brands into visually captivating and delicious layer cakes. This project seamlessly blends the worlds of high fashion and culinary artistry by leveraging AI technologies, including Stable Diffusion and OpenAI's GPT-3.5 Turbo.
 
-![Brand-Inspired Cake](link-to-sample-cake-image.jpg)
 
 ## Features
 
@@ -27,8 +26,3 @@ Combining text-to-image with Large Language models, the AI Brand-Inspired Cake G
 3. That description is used by Stable Diffusion to generate a photo of the product.
 4. The picture and description are then displayed using Streamlit.
 
-## Demo
-
-![Demo Video](link-to-demo-video.gif)
-
-For a live demonstration, visit the [AI Brand-Inspired Cake Generator](link-to-live-demo).
